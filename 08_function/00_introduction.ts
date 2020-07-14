@@ -1,0 +1,17 @@
+/* 
+
+Defining a Function
+Calling a Function
+Returning Functions
+Parameterized Function
+Optional Parameters
+Rest Parameters
+Default Parameters
+Anonymous Function
+The Function Constructor
+Recursion and TypeScript Functions
+Lambda Functions
+Syntactic Variations
+Function Overloads
+
+*/
